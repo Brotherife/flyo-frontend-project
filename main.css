@@ -84,7 +84,7 @@ nav {
 .curve {
     width: 100%;
     height: 50px;
-    background-image: url(./images/bg-curve-mobile.svg);
+    background-image: url(bg-curve-mobile.svg);
 }
 
 main {
@@ -329,7 +329,7 @@ ul {
     .curve {
         width: 100%;
         height: 100px;
-        background-image: url(./images/bg-curve-desktop.svg);
+        background-image: url(bg-curve-desktop.svg);
     }
 
     .content {
